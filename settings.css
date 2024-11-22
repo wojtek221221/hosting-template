@@ -1,0 +1,65 @@
+:root { /* colory */
+    --bg-color: #ffffff; /* kolor tła strony */
+    --titles-color: #272727; /* kolor nagłówków */
+    --onas-descript: #414141; /* opis o nas */
+
+    /* oferta */
+    --oferta-title: #FAFAFA;
+    --oferta-cena: #E1E1E1;
+    --oferta-msc: #E1E1E1;
+    --oferta-descript: #E1E1E1;
+    /* discord */
+    --discord-title: #FFFFFF;
+    /* opinie */
+    --opinie-border: #2361FF; /* obramówka opinii */
+    --opinie-name: #f0f0f0; /* nazwa twórcy opinii */
+    --opinie-name-descript: #f8f8f8; /* właściciel serwera x */
+    --opinie-descript: #e4e4e4; /* treść opinii */
+    /* faq */
+    --faq-descript: #535353; /* kolor opisu */
+    --faq-lines: #c2c2c2; /* kolor lini pod tekstem */
+    /* darmowy serwer */
+    --server-bg: #e4e4e4a9;  /* kolor tła */
+    --server-descript: #535353;  /* kolor tła */
+
+    --scroll-color: #184eff; /* kolor paska skrollowania po prawej stronie */
+    --navbar-color: #494949; /* kolor tekstu navbar */
+}
+
+:root { /* gradients */
+
+    /* oferta, discord, opinie tło */
+    --gradient1: #4495FF;
+    --gradient2: #2361FF;
+    
+    /* o nas ikony */
+    --gradient3: #008CFF;
+    --gradient4: #0070CC;
+
+    /* gradient przyciski na samej górze, darmowy serwer */
+    --gradient-btn-color: #F0F0F0;/* kolor tekstu przycików z gradientem */
+    --gradient5: #008CFF;
+    --gradient6: #0170CB;
+}
+
+:root  { /* przyciski */
+    --first-btn-text-color: #272727;/* kolor 1 tekstu 1 przycisku */
+    --first-btn-border-color: #272727; /* kolor obramówki 1 przycisku */
+
+    --oferta-btn-text-color: #272727;/* kolor tekstu przycisku oferty */
+    --oferta-btn-bg-color: #FFFFFF; /* kolor tła przycisku oferty */
+
+    --discord-btn-text-color: #272727;/* kolor tekstu przycisku discord */
+    --discord-btn-bg-color: #FFFFFF; /* kolor tła przycisku discord */
+}
+
+:root { /* rozmiar tekstu */    
+    --titles-size: 64px; /* rozmiar naglowków */
+}
+
+
+/* chcesz usunąc animacje scrollowania? */
+/* zdjedź na sam dół pliku style.css, znajdziesz tam poradnik jak to zrobić */
+
+
+/* created by wojtek221 (dc) (https://discord.gg/gSCVDc7yMt)*/

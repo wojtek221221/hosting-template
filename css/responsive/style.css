@@ -1,0 +1,80 @@
+@media(max-width: 992px){
+    .navbar {
+        display: none;
+    }
+    .first_container_items {
+        padding: 20px;
+    }
+    .render {
+        z-index: -1;
+        filter: blur(2px);
+        opacity: 20%;
+    }
+    .second_container {
+        top: 950px;
+    }
+    .second_container_items {
+        position: relative;
+        top: -100px;
+    }
+    .thrid_container {
+        top: 2350px;
+    }
+    .discord_container {
+        top: 4000px;
+    }
+    .discord_container button {
+        position: relative;
+        left: 15px;
+    }
+    .fourth_container {
+        display: none;
+    }
+    .fifth_container {
+        top: 4650px;
+    }
+    .faq h3 {
+        font-size: 22px !important;
+        margin-left: 15px;
+    }
+    .question {
+        width: 430px;
+    }
+    .answer {
+        max-width: 430px;
+    }
+    .sixth_container {
+        top: 5300px;
+        width: 100%;
+        border-radius: 0;
+        height: 500px;
+    }
+    .sixth_container_text {
+        position: relative;
+        left: 0px;
+    }
+    .sixth_render {
+        position: absolute;
+        top: 25px;
+        z-index: -1;
+        opacity: 10%;
+    }
+    footer {
+        top: 5400px;
+        text-align: left;
+        justify-content: center;
+        align-items: center;
+    }
+    .footer_container {
+        border-top: 1px solid #dfdfdf;
+        position: relative;
+        left: -50px;
+        gap: 30px;
+    }
+    .footer_items {
+        text-align: left;
+        display: block;
+        gap: 0px;
+    }
+}
+/* created by wojtek221 (dc) (https://discord.gg/gSCVDc7yMt)*/
